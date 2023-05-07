@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BooksApp</string>
+    <string name="logout">LOGOUT\n</string>
+    <string name="Logout">Logout</string>
+    <string name="about">About</string>
+    <string name="team">Tim Pembuat Aplikasi</string>
+    <string name="nama1">Ronald Ramadhani Pangestu</string>
+    <string name="nama2">Revan Alifian Zhafran</string>
+</resources>
